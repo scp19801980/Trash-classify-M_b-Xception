@@ -1,6 +1,6 @@
 Trash-classify: M_b-Xception
 ====
-we propose an effective method to improve the network performance on TrashNet data set. This method widens the network by expanding branches, and then uses add layers to realize the fusion of feature information. Using this method to replace the core structure of the Xception network, a network structure that provides high precision on the TrashNet dataset is obtained. We call it Multi-branch Xception (M-b Xception).
+We propose an effective method to improve the network performance on TrashNet data set. This method widens the network by expanding branches, and then uses add layers to realize the fusion of feature information. Using this method to replace the core structure of the Xception network, a network structure that provides high precision on the TrashNet dataset is obtained. We call it Multi-branch Xception (M-b Xception).
 
 Models
 ==========
