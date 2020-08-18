@@ -13,3 +13,17 @@ Data set
 ======
 The data set is widely used in the field of garbage classification based on deep learning technology. There are 2527 RGB images, including 501 glass images, 594 paper images, 403 cardboard images, 482 plastic images, 410 metal images and 137 trash images.   
 You can use this link to download the original data set：https://pan.baidu.com/s/13XTKEDKRlUtq7Ao45tj2CA   password ：Mbxc
+
+Environment
+========
+Python 3.5.2
+cuda 8.0
+cudnn 6.0.21
+tensorflow-gpu 1.4.0
+keras 2.1.3
+numpy 1.16.2
+opencv-python
+sklearn
+seaborn
+matplotlib
+pandas
