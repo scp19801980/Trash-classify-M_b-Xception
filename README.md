@@ -17,13 +17,21 @@ You can use this link to download the original data set：https://pan.baidu.com/
 Environment
 ========
 Python 3.5.2
+
 cuda 8.0
+
 cudnn 6.0.21
+
 tensorflow-gpu 1.4.0
+
 keras 2.1.3
+
 numpy 1.16.2
-opencv-python
-sklearn
-seaborn
-matplotlib
-pandas
+
+
+
+If this project is helpful to you, please cite the following paper:
+
+C. Shi, R. Xia and L. Wang, "A Novel Multi-Branch Channel Expansion Network for Garbage Image Classification," in IEEE Access, doi: 10.1109/ACCESS.2020.3016116.
+
+
